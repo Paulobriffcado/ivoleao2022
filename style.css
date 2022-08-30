@@ -19,7 +19,7 @@ p {
 }
 
 em strong {
-    color: #FF0000;
+    color: #FFFFFF;
 }
 
 .itens {
@@ -27,5 +27,9 @@ em strong {
 }
 
 .beneficios {
-    background: #FF0000;
+    background: #FFFFFF;
+}
+
+h2 {
+    text-align:center;
 }
